@@ -26,12 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilalguler&show_icons=true&locale=en" alt="bilalguler" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalguler&" alt="bilalguler" /></p>
-Daha
-Github
-Salıverme
-Sorunlar
-Çekme İstekleri
-Topluluğa Katılın
-Topluluğun anlaşmazlığı
-Hindistan'da geliştirildi 🇮🇳
-bana bir kahve ısmarla
