@@ -1,19 +1,4 @@
-github profili işaretleme oluşturucu logosu
-GitHub Profil README Oluşturucu
-Bu depoya yıldız ekle
-16440
-GitHub'da çatal
-4589
 
-düzenlemeye geri dön
-
-kopya işaretleme
-
-işaretlemeyi indir
-
-yedeklemeyi indir
-
-Ön izleme
 <h1 align="center">Merhaba 👋, ben ,Bilal Güler</h1>
 <h3 align="center">Yıldız Teknik Üniversitesi'nde okuyorum ve bölümüm Matematik. Ön Uç Geliştirici olmak istiyorum.</h3>
 
